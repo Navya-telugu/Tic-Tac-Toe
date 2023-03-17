@@ -1,0 +1,23 @@
+table, td {
+    background-color:darkorchid;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    width: 300px;
+    height: 80px;
+    align-items: center;
+    
+}
+
+body{
+    background-color:hotpink;
+}
+h1{
+    color:darkmagenta
+}
+button:hover{
+    color:brown
+}
+    
